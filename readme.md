@@ -19,11 +19,6 @@ qbtsf replicates all core features of the qBittorrent WebUI, including:
 - **IPv6 Support** – Full support for IPv6 networks.
 - **Bandwidth Scheduler** – Schedule bandwidth limits.
 
-<img width="2070" height="1494" alt="Screenshot 2026-01-03 120037" src="https://github.com/user-attachments/assets/de12286c-f731-4b36-a714-a93af1084f83" />
-<img width="2068" height="1494" alt="Screenshot 2026-01-03 120122" src="https://github.com/user-attachments/assets/3029cfb9-b299-4363-a174-58e0f7352697" />
-<img width="2070" height="1494" alt="Screenshot 2026-01-03 120148" src="https://github.com/user-attachments/assets/4056058e-9b8e-4fcd-9c38-d8a139e9ca13" />
-<img width="2070" height="1494" alt="Screenshot 2026-01-03 120228" src="https://github.com/user-attachments/assets/103671b8-b694-44ca-b5a4-5fb9899403ae" />
-
 For a detailed explanation of these features, refer to the [qBittorrent Options Guide](https://github.com/qbittorrent/qBittorrent/wiki/Explanation-of-Options-in-qBittorrent).
 
 ---
