@@ -1,7 +1,7 @@
 using AwesomeAssertions;
-using Lantean.QBTMud.Services;
+using Lantean.QBTSF.Services;
 
-namespace Lantean.QBTMud.Test.Services
+namespace Lantean.QBTSF.Test.Services
 {
     public sealed class PeriodicTimerFactoryTests
     {

@@ -1,10 +1,10 @@
 using AwesomeAssertions;
-using Lantean.QBTMud.Helpers;
-using Lantean.QBTMud.Models;
-using Lantean.QBTMud.Services;
+using Lantean.QBTSF.Helpers;
+using Lantean.QBTSF.Models;
+using Lantean.QBTSF.Services;
 using ClientModels = Lantean.QBitTorrentClient.Models;
 
-namespace Lantean.QBTMud.Test.Services
+namespace Lantean.QBTSF.Test.Services
 {
     public class TorrentDataManagerMainDataTests
     {

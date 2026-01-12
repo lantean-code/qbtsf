@@ -1,10 +1,10 @@
 using AwesomeAssertions;
 using Bunit;
 using Lantean.QBitTorrentClient;
-using Lantean.QBTMud.Models;
-using Lantean.QBTMud.Pages;
-using Lantean.QBTMud.Services;
-using Lantean.QBTMud.Test.Infrastructure;
+using Lantean.QBTSF.Models;
+using Lantean.QBTSF.Pages;
+using Lantean.QBTSF.Services;
+using Lantean.QBTSF.Test.Infrastructure;
 using Microsoft.AspNetCore.Components;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
@@ -13,7 +13,7 @@ using Moq;
 using System.Text.Json;
 using ClientModels = Lantean.QBitTorrentClient.Models;
 
-namespace Lantean.QBTMud.Test.Pages
+namespace Lantean.QBTSF.Test.Pages
 {
     public sealed class DetailsTests : RazorComponentTestBase<Details>
     {

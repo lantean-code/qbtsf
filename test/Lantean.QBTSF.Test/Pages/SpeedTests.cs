@@ -1,15 +1,15 @@
 using AwesomeAssertions;
 using Bunit;
-using Lantean.QBTMud.Models;
-using Lantean.QBTMud.Pages;
-using Lantean.QBTMud.Services;
-using Lantean.QBTMud.Test.Infrastructure;
+using Lantean.QBTSF.Models;
+using Lantean.QBTSF.Pages;
+using Lantean.QBTSF.Services;
+using Lantean.QBTSF.Test.Infrastructure;
 using Microsoft.AspNetCore.Components;
 using Microsoft.Extensions.DependencyInjection;
 using Moq;
 using MudBlazor;
 
-namespace Lantean.QBTMud.Test.Pages
+namespace Lantean.QBTSF.Test.Pages
 {
     public sealed class SpeedTests : RazorComponentTestBase<Speed>
     {

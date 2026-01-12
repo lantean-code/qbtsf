@@ -1,9 +1,9 @@
 using AwesomeAssertions;
 using Lantean.QBitTorrentClient.Models;
-using Lantean.QBTMud.Helpers;
-using Lantean.QBTMud.Models;
+using Lantean.QBTSF.Helpers;
+using Lantean.QBTSF.Models;
 
-namespace Lantean.QBTMud.Test.Helpers
+namespace Lantean.QBTSF.Test.Helpers
 {
     public sealed class SearchFilterHelperTests
     {

@@ -2,14 +2,14 @@ using AwesomeAssertions;
 using Bunit;
 using Lantean.QBitTorrentClient;
 using Lantean.QBitTorrentClient.Models;
-using Lantean.QBTMud.Components.Options;
-using Lantean.QBTMud.Components.UI;
-using Lantean.QBTMud.Test.Infrastructure;
+using Lantean.QBTSF.Components.Options;
+using Lantean.QBTSF.Components.UI;
+using Lantean.QBTSF.Test.Infrastructure;
 using Microsoft.AspNetCore.Components;
 using MudBlazor;
 using System.Text.Json;
 
-namespace Lantean.QBTMud.Test.Components.Options
+namespace Lantean.QBTSF.Test.Components.Options
 {
     public sealed class ConnectionOptionsTests : RazorComponentTestBase<ConnectionOptions>
     {

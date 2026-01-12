@@ -1,6 +1,6 @@
-using Lantean.QBTMud.Services;
+using Lantean.QBTSF.Services;
 
-namespace Lantean.QBTMud.Test.Infrastructure
+namespace Lantean.QBTSF.Test.Infrastructure
 {
     public sealed class FakePeriodicTimerFactory : IPeriodicTimerFactory
     {

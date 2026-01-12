@@ -1,9 +1,9 @@
 using AwesomeAssertions;
-using Lantean.QBTMud.Components.UI;
-using Lantean.QBTMud.Test.Infrastructure;
+using Lantean.QBTSF.Components.UI;
+using Lantean.QBTSF.Test.Infrastructure;
 using MudBlazor;
 
-namespace Lantean.QBTMud.Test.Components.UI
+namespace Lantean.QBTSF.Test.Components.UI
 {
     public sealed class TickSwitchTests : RazorComponentTestBase
     {

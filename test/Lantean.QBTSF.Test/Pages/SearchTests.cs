@@ -3,11 +3,11 @@ using AwesomeAssertions;
 using Bunit;
 using Lantean.QBitTorrentClient;
 using Lantean.QBitTorrentClient.Models;
-using Lantean.QBTMud.Components.UI;
-using Lantean.QBTMud.Helpers;
-using Lantean.QBTMud.Models;
-using Lantean.QBTMud.Pages;
-using Lantean.QBTMud.Test.Infrastructure;
+using Lantean.QBTSF.Components.UI;
+using Lantean.QBTSF.Helpers;
+using Lantean.QBTSF.Models;
+using Lantean.QBTSF.Pages;
+using Lantean.QBTSF.Test.Infrastructure;
 using Microsoft.AspNetCore.Components.Web;
 using Moq;
 using MudBlazor;
@@ -17,7 +17,7 @@ using UiMainData = Lantean.QBTMud.Models.MainData;
 using UiServerState = Lantean.QBTMud.Models.ServerState;
 using UiTorrent = Lantean.QBTMud.Models.Torrent;
 
-namespace Lantean.QBTMud.Test.Pages
+namespace Lantean.QBTSF.Test.Pages
 {
     public sealed class SearchTests : RazorComponentTestBase<Search>
     {

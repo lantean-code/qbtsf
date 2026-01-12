@@ -1,10 +1,10 @@
 using AwesomeAssertions;
 using Bunit;
-using Lantean.QBTMud.Components.UI;
-using Lantean.QBTMud.Test.Infrastructure;
+using Lantean.QBTSF.Components.UI;
+using Lantean.QBTSF.Test.Infrastructure;
 using Microsoft.AspNetCore.Components;
 
-namespace Lantean.QBTMud.Test.Components.UI
+namespace Lantean.QBTSF.Test.Components.UI
 {
     public sealed class FieldSwitchTests : RazorComponentTestBase<FieldSwitch>
     {

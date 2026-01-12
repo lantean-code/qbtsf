@@ -1,8 +1,8 @@
 using AwesomeAssertions;
-using Lantean.QBTMud.Models;
-using Lantean.QBTMud.Services;
+using Lantean.QBTSF.Models;
+using Lantean.QBTSF.Services;
 
-namespace Lantean.QBTMud.Test.Services
+namespace Lantean.QBTSF.Test.Services
 {
     public class FileNameMatcherTests
     {

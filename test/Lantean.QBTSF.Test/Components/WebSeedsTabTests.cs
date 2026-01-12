@@ -1,13 +1,13 @@
 using AwesomeAssertions;
 using Bunit;
-using Lantean.QBTMud.Components;
-using Lantean.QBTMud.Services;
-using Lantean.QBTMud.Test.Infrastructure;
+using Lantean.QBTSF.Components;
+using Lantean.QBTSF.Services;
+using Lantean.QBTSF.Test.Infrastructure;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using Moq;
 
-namespace Lantean.QBTMud.Test.Components
+namespace Lantean.QBTSF.Test.Components
 {
     public sealed class WebSeedsTabTests : RazorComponentTestBase
     {

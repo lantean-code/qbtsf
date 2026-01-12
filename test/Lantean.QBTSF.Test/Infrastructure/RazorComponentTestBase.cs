@@ -1,7 +1,7 @@
 using Bunit;
 using Microsoft.AspNetCore.Components;
 
-namespace Lantean.QBTMud.Test.Infrastructure
+namespace Lantean.QBTSF.Test.Infrastructure
 {
     public abstract class RazorComponentTestBase<T> : RazorComponentTestBase where T : IComponent
     {

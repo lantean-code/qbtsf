@@ -1,8 +1,8 @@
 using AwesomeAssertions;
-using Lantean.QBTMud.Services;
-using Lantean.QBTMud.Test.Infrastructure;
+using Lantean.QBTSF.Services;
+using Lantean.QBTSF.Test.Infrastructure;
 
-namespace Lantean.QBTMud.Test.Services
+namespace Lantean.QBTSF.Test.Services
 {
     public sealed class LocalStorageServiceTests
     {

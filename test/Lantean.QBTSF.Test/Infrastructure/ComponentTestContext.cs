@@ -1,7 +1,7 @@
 using Bunit;
 using Lantean.QBitTorrentClient;
-using Lantean.QBTMud.Helpers;
-using Lantean.QBTMud.Services;
+using Lantean.QBTSF.Helpers;
+using Lantean.QBTSF.Services;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Moq;
@@ -9,7 +9,7 @@ using MudBlazor;
 using MudBlazor.Services;
 using System.Net;
 
-namespace Lantean.QBTMud.Test.Infrastructure
+namespace Lantean.QBTSF.Test.Infrastructure
 {
     internal sealed class ComponentTestContext : BunitContext
     {

@@ -1,8 +1,8 @@
 using AwesomeAssertions;
 using Lantean.QBitTorrentClient.Models;
-using Lantean.QBTMud.Models;
+using Lantean.QBTSF.Models;
 
-namespace Lantean.QBTMud.Test.Models
+namespace Lantean.QBTSF.Test.Models
 {
     public sealed class SearchJobViewModelTests
     {

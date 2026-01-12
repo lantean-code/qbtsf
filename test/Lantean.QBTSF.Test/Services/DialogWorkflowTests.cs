@@ -1,10 +1,10 @@
 using AwesomeAssertions;
 using Lantean.QBitTorrentClient;
 using Lantean.QBitTorrentClient.Models;
-using Lantean.QBTMud.Components.Dialogs;
-using Lantean.QBTMud.Filter;
-using Lantean.QBTMud.Models;
-using Lantean.QBTMud.Services;
+using Lantean.QBTSF.Components.Dialogs;
+using Lantean.QBTSF.Filter;
+using Lantean.QBTSF.Models;
+using Lantean.QBTSF.Services;
 using Microsoft.AspNetCore.Components.Forms;
 using Moq;
 using MudBlazor;
@@ -12,7 +12,7 @@ using MudCategory = Lantean.QBTMud.Models.Category;
 using MudTorrent = Lantean.QBTMud.Models.Torrent;
 using QbtCategory = Lantean.QBitTorrentClient.Models.Category;
 
-namespace Lantean.QBTMud.Test.Services
+namespace Lantean.QBTSF.Test.Services
 {
     public sealed class DialogWorkflowTests
     {

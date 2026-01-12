@@ -1,7 +1,7 @@
-using Lantean.QBTMud.Services;
+using Lantean.QBTSF.Services;
 using System.Collections.Concurrent;
 
-namespace Lantean.QBTMud.Test.Infrastructure
+namespace Lantean.QBTSF.Test.Infrastructure
 {
     internal sealed class TestClipboardService : IClipboardService
     {

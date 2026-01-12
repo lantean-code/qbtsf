@@ -1,11 +1,11 @@
 using AwesomeAssertions;
 using Bunit;
-using Lantean.QBTMud.Components.Dialogs;
-using Lantean.QBTMud.Components.UI;
-using Lantean.QBTMud.Helpers;
-using Lantean.QBTMud.Models;
-using Lantean.QBTMud.Services;
-using Lantean.QBTMud.Test.Infrastructure;
+using Lantean.QBTSF.Components.Dialogs;
+using Lantean.QBTSF.Components.UI;
+using Lantean.QBTSF.Helpers;
+using Lantean.QBTSF.Models;
+using Lantean.QBTSF.Services;
+using Lantean.QBTSF.Test.Infrastructure;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.Extensions.DependencyInjection;
@@ -13,7 +13,7 @@ using Microsoft.Extensions.DependencyInjection.Extensions;
 using Moq;
 using MudBlazor;
 
-namespace Lantean.QBTMud.Test.Components.UI
+namespace Lantean.QBTSF.Test.Components.UI
 {
     public sealed class DynamicTableTests : RazorComponentTestBase
     {

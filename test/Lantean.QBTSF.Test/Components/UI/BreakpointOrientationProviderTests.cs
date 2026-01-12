@@ -1,7 +1,7 @@
 using AwesomeAssertions;
 using Bunit;
-using Lantean.QBTMud.Components.UI;
-using Lantean.QBTMud.Test.Infrastructure;
+using Lantean.QBTSF.Components.UI;
+using Lantean.QBTSF.Test.Infrastructure;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Rendering;
 using Microsoft.Extensions.DependencyInjection;
@@ -10,7 +10,7 @@ using Moq;
 using MudBlazor;
 using MudBlazor.Services;
 
-namespace Lantean.QBTMud.Test.Components.UI
+namespace Lantean.QBTSF.Test.Components.UI
 {
     public sealed class BreakpointOrientationProviderTests : RazorComponentTestBase
     {

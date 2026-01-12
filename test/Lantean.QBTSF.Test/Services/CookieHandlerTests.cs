@@ -1,8 +1,8 @@
 using AwesomeAssertions;
-using Lantean.QBTMud.Services;
+using Lantean.QBTSF.Services;
 using System.Net;
 
-namespace Lantean.QBTMud.Test.Services
+namespace Lantean.QBTSF.Test.Services
 {
     public class CookieHandlerTests
     {

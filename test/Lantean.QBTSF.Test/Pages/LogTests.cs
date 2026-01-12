@@ -2,10 +2,10 @@ using AwesomeAssertions;
 using Bunit;
 using Lantean.QBitTorrentClient;
 using Lantean.QBitTorrentClient.Models;
-using Lantean.QBTMud.Components.UI;
-using Lantean.QBTMud.Models;
-using Lantean.QBTMud.Services;
-using Lantean.QBTMud.Test.Infrastructure;
+using Lantean.QBTSF.Components.UI;
+using Lantean.QBTSF.Models;
+using Lantean.QBTSF.Services;
+using Lantean.QBTSF.Test.Infrastructure;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Forms;
 using Microsoft.AspNetCore.Components.Web;
@@ -16,7 +16,7 @@ using MudBlazor;
 using LogEntry = Lantean.QBitTorrentClient.Models.Log;
 using LogPage = Lantean.QBTMud.Pages.Log;
 
-namespace Lantean.QBTMud.Test.Pages
+namespace Lantean.QBTSF.Test.Pages
 {
     public sealed class LogTests : RazorComponentTestBase
     {

@@ -1,11 +1,11 @@
 using AwesomeAssertions;
-using Lantean.QBTMud.Helpers;
-using Lantean.QBTMud.Models;
-using Lantean.QBTMud.Services;
+using Lantean.QBTSF.Helpers;
+using Lantean.QBTSF.Models;
+using Lantean.QBTSF.Services;
 using ClientModels = Lantean.QBitTorrentClient.Models;
 using ShareLimitAction = Lantean.QBitTorrentClient.Models.ShareLimitAction;
 
-namespace Lantean.QBTMud.Test.Services
+namespace Lantean.QBTSF.Test.Services
 {
     public class TorrentDataManagerHelperTests
     {

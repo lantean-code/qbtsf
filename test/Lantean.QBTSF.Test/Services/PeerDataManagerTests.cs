@@ -1,10 +1,10 @@
 using AwesomeAssertions;
-using Lantean.QBTMud.Models;
-using Lantean.QBTMud.Services;
+using Lantean.QBTSF.Models;
+using Lantean.QBTSF.Services;
 using QbtPeer = Lantean.QBitTorrentClient.Models.Peer;
 using QbtTorrentPeers = Lantean.QBitTorrentClient.Models.TorrentPeers;
 
-namespace Lantean.QBTMud.Test.Services
+namespace Lantean.QBTSF.Test.Services
 {
     public class PeerDataManagerTests
     {

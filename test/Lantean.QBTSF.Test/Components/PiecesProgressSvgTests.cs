@@ -1,13 +1,13 @@
 using AwesomeAssertions;
 using Bunit;
 using Lantean.QBitTorrentClient.Models;
-using Lantean.QBTMud.Components;
-using Lantean.QBTMud.Test.Infrastructure;
+using Lantean.QBTSF.Components;
+using Lantean.QBTSF.Test.Infrastructure;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using MudBlazor;
 
-namespace Lantean.QBTMud.Test.Components
+namespace Lantean.QBTSF.Test.Components
 {
     public sealed class PiecesProgressSvgTests : RazorComponentTestBase<PiecesProgressSvg>
     {

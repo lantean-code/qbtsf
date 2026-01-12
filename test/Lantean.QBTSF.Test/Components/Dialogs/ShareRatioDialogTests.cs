@@ -2,14 +2,14 @@ using AwesomeAssertions;
 using Bunit;
 using Lantean.QBitTorrentClient;
 using Lantean.QBitTorrentClient.Models;
-using Lantean.QBTMud.Components.Dialogs;
-using Lantean.QBTMud.Components.UI;
-using Lantean.QBTMud.Models;
-using Lantean.QBTMud.Test.Infrastructure;
+using Lantean.QBTSF.Components.Dialogs;
+using Lantean.QBTSF.Components.UI;
+using Lantean.QBTSF.Models;
+using Lantean.QBTSF.Test.Infrastructure;
 using Microsoft.Extensions.DependencyInjection;
 using MudBlazor;
 
-namespace Lantean.QBTMud.Test.Components.Dialogs
+namespace Lantean.QBTSF.Test.Components.Dialogs
 {
     public sealed class ShareRatioDialogTests : RazorComponentTestBase<ShareRatioDialog>
     {

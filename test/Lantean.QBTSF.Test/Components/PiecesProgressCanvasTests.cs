@@ -1,11 +1,11 @@
 using AwesomeAssertions;
 using Bunit;
 using Lantean.QBitTorrentClient.Models;
-using Lantean.QBTMud.Components;
-using Lantean.QBTMud.Test.Infrastructure;
+using Lantean.QBTSF.Components;
+using Lantean.QBTSF.Test.Infrastructure;
 using MudBlazor;
 
-namespace Lantean.QBTMud.Test.Components
+namespace Lantean.QBTSF.Test.Components
 {
     public sealed class PiecesProgressCanvasTests : RazorComponentTestBase
     {

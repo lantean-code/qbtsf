@@ -1,16 +1,16 @@
 using AwesomeAssertions;
 using Bunit;
-using Lantean.QBTMud.Layout;
-using Lantean.QBTMud.Models;
-using Lantean.QBTMud.Services;
-using Lantean.QBTMud.Test.Infrastructure;
+using Lantean.QBTSF.Layout;
+using Lantean.QBTSF.Models;
+using Lantean.QBTSF.Services;
+using Lantean.QBTSF.Test.Infrastructure;
 using Microsoft.AspNetCore.Components;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using Moq;
 using MudBlazor;
 
-namespace Lantean.QBTMud.Test.Layout
+namespace Lantean.QBTSF.Test.Layout
 {
     public sealed class DetailsLayoutTests : RazorComponentTestBase<DetailsLayout>
     {

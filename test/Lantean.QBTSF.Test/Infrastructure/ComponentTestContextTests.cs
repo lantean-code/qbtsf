@@ -3,7 +3,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Moq;
 using MudBlazor;
 
-namespace Lantean.QBTMud.Test.Infrastructure
+namespace Lantean.QBTSF.Test.Infrastructure
 {
     public class ComponentTestContextTests : IDisposable
     {

@@ -1,13 +1,13 @@
 using AwesomeAssertions;
 using Bunit;
-using Lantean.QBTMud.Components.Dialogs;
-using Lantean.QBTMud.Models;
-using Lantean.QBTMud.Test.Infrastructure;
+using Lantean.QBTSF.Components.Dialogs;
+using Lantean.QBTSF.Models;
+using Lantean.QBTSF.Test.Infrastructure;
 using Microsoft.AspNetCore.Components;
 using Microsoft.Extensions.DependencyInjection;
 using MudBlazor;
 
-namespace Lantean.QBTMud.Test.Components.Dialogs
+namespace Lantean.QBTSF.Test.Components.Dialogs
 {
     public sealed class ColumnOptionsDialogTests : RazorComponentTestBase<ColumnOptionsDialog<string>>
     {

@@ -1,6 +1,6 @@
 using Microsoft.JSInterop;
 
-namespace Lantean.QBTMud.Test.Infrastructure
+namespace Lantean.QBTSF.Test.Infrastructure
 {
     internal sealed class TestJsRuntime : IJSRuntime
     {

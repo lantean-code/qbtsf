@@ -1,10 +1,10 @@
 using AwesomeAssertions;
 using Lantean.QBitTorrentClient.Models;
-using Lantean.QBTMud.Helpers;
-using Lantean.QBTMud.Models;
+using Lantean.QBTSF.Helpers;
+using Lantean.QBTSF.Models;
 using MudTorrent = Lantean.QBTMud.Models.Torrent;
 
-namespace Lantean.QBTMud.Test.Helpers
+namespace Lantean.QBTSF.Test.Helpers
 {
     public sealed class FilterHelperTests
     {

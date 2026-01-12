@@ -1,9 +1,9 @@
-using Lantean.QBTMud.Services;
+using Lantean.QBTSF.Services;
 using Microsoft.JSInterop;
 using Microsoft.JSInterop.Infrastructure;
 using Moq;
 
-namespace Lantean.QBTMud.Test.Services
+namespace Lantean.QBTSF.Test.Services
 {
     public class ClipboardServiceTests
     {

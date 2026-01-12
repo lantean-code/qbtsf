@@ -1,12 +1,12 @@
 using AwesomeAssertions;
 using Lantean.QBitTorrentClient.Models;
-using Lantean.QBTMud.Models;
-using Lantean.QBTMud.Services;
+using Lantean.QBTSF.Models;
+using Lantean.QBTSF.Services;
 
 using MudPriority = Lantean.QBTMud.Models.Priority;
 using QbtPriority = Lantean.QBitTorrentClient.Models.Priority;
 
-namespace Lantean.QBTMud.Test.Services
+namespace Lantean.QBTSF.Test.Services
 {
     public class TorrentDataManagerContentsListTests
     {

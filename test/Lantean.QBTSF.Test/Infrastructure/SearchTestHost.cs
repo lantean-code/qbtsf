@@ -1,10 +1,10 @@
 using Lantean.QBitTorrentClient.Models;
-using Lantean.QBTMud.Components.UI;
-using Lantean.QBTMud.Models;
-using Lantean.QBTMud.Pages;
+using Lantean.QBTSF.Components.UI;
+using Lantean.QBTSF.Models;
+using Lantean.QBTSF.Pages;
 using MudBlazor;
 
-namespace Lantean.QBTMud.Test.Infrastructure
+namespace Lantean.QBTSF.Test.Infrastructure
 {
     internal sealed class SearchTestHost : Search
     {
